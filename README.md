@@ -1,2 +1,2 @@
-# Learning-C-
-My first two C# console apps, "HelloWorld" and a simple Age Comparison program
+# Learning-Csharp
+C# Applications and work done while progressing through the Microsoft Virtual Academy's C# Fundamentals Course.
